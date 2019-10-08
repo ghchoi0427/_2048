@@ -1,0 +1,10 @@
+C:\Users\ghcho\OneDrive\문서\Visual Studio 2017\Projects\2048\bin\Debug\2048.exe.config
+C:\Users\ghcho\OneDrive\문서\Visual Studio 2017\Projects\2048\bin\Debug\2048.exe
+C:\Users\ghcho\OneDrive\문서\Visual Studio 2017\Projects\2048\bin\Debug\2048.pdb
+C:\Users\ghcho\OneDrive\문서\Visual Studio 2017\Projects\2048\obj\Debug\2048.csprojAssemblyReference.cache
+C:\Users\ghcho\OneDrive\문서\Visual Studio 2017\Projects\2048\obj\Debug\_2048.Properties.Resources.resources
+C:\Users\ghcho\OneDrive\문서\Visual Studio 2017\Projects\2048\obj\Debug\2048.csproj.GenerateResource.cache
+C:\Users\ghcho\OneDrive\문서\Visual Studio 2017\Projects\2048\obj\Debug\2048.csproj.CoreCompileInputs.cache
+C:\Users\ghcho\OneDrive\문서\Visual Studio 2017\Projects\2048\obj\Debug\2048.exe
+C:\Users\ghcho\OneDrive\문서\Visual Studio 2017\Projects\2048\obj\Debug\2048.pdb
+C:\Users\ghcho\OneDrive\문서\Visual Studio 2017\Projects\2048\obj\Debug\_2048.Form1.resources
